@@ -9,7 +9,7 @@ TesterKit is pre-1.0. Only the latest released `0.x` version receives security f
 Please do not open a public issue for vulnerabilities. Use one of these private channels:
 
 1. **Preferred:** GitHub [private vulnerability reporting](https://github.com/pragmatest-dev/testerkit/security/advisories/new).
-2. Email `security@pragmatest.io`.
+2. Email `security@pragmatest.com`.
 
 Include:
 
